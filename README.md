@@ -1,6 +1,6 @@
 # Opencv-Webcam
 
-Python Opencv Webcam
+Python'da Opencv kütüphanesi ile webcam kullanımı
 
 Basit Webcam Python programlama dili kullanarak OpenCV kütüphanesi üzerinde anlık görüntü alma uygulamasıdır.
 
@@ -10,12 +10,9 @@ Web kamerası üzerinde görüntüyü görüntülemek üzere imshow () fonksiyon
 
 Sonuç olarak, anlık web kamerasından görüntü alma uygulamasıdır.
 
-Githup'da yıldızlarınız eksik olmasın :))))))))
-
-
 ----------------------------------------------------------------------------------------------------------------------
 
-Python Opencv Webcam
+Use of webcams with the Opencv library in Python
 
 Simple Webcam The Python programming language is implementing a screenshot of an OpenCV library.
 
@@ -24,5 +21,3 @@ Python compilers must use OpenCV. For more information about OpenCV, visit http:
 The application of WebCam is the use of OpenCV.
 
 As a result, it is the application to take images from the instant webcam.
-
-Don't miss your stars in Githup :))))))))
